@@ -59,7 +59,6 @@ The codebase is split into two main projects:
    as well as various other utilities.
 
 ### Prerequisites
-
 #### Build tools
 
 The following compiler toolchains are used to build tket on the CI and are
